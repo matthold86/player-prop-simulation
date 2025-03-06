@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+player_prop/
 
 # Spyder project settings
 .spyderproject
